@@ -1,4 +1,10 @@
-# telegram-parser-v2.0. Парсер и инвайтер чатов Телеграмм. (Telethon) 
+# telegram-parser-v2.0. Парсер и инвайтер чатов Телеграмм. (Telethon)
+
+I'm archiving this repo. Telegram moderation has become stricter, making invites impossible and parsing difficult.
+So please stop writing to me about the project's functionality.
+I wrote the code a long time ago, at the very beginning of my career as a software engineer, and now I feel that it smells. It's another reason why I made a decision to archive this repo - I have no interest in circumventing the restrictions of this "messenger for scam".
+If you want to try your luck at bypassing Telegram's algorithms, you can fork the project.
+Bye for now.
 
 # Обновления
 ## v2.0
